@@ -1,0 +1,30 @@
+
+
+Below are list of Tables/Vertex  and their various data types that I used to create and Connect the application Tigergraph Cloud Database 
+
+
+Application Name:   Covid19 Infections Insights
+
+
+
+
+Vertex:  covid19_reports
+
+Province_State (primary_id) String
+Country_Region String
+Last_Update String
+Lat String
+Long_ String
+Confirmed String
+Deaths String
+Recovered String
+Active String
+FIPS String
+Incident_Rate String
+Total_Test_Results String
+People_Hospitalized String
+Case_Fatality_Ratio String
+UID String
+ISO3 String
+Testing_Rate String
+Hospitalization_Rate String
